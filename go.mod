@@ -1,4 +1,4 @@
-module github.com/meinside/nfcnormalizer
+module github.com/meinside/nfc-normalizer-go
 
 go 1.20
 
